@@ -6,7 +6,7 @@ I'm a tech enthusiast who loves exploring innovative solutions and tackling chal
 - 👀 I’m interested in developing creative projects, exploring cutting-edge technologies, and solving complex challenges.
 - 🌱 I’m currently learning advanced programming techniques, cloud computing, and automation scripting.
 - 💞️ I’m looking to collaborate on open-source projects, innovative software solutions, and tech challenges.
-- 📫 How to reach me: [LinkedIn](#www.linkedin.com/in/hariom-khonde) | [Email](mailto:hariomkhonde@example.com) 
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/hariom-khonde) | [Email](mailto:hariomkhonde@example.com) 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love experimenting with new ideas and turning them into practical solutions!
 
