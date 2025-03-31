@@ -2,7 +2,7 @@
 <h3 align="center">I'm a tech enthusiast who loves exploring innovative solutions and tackling challenging problems. I believe in continuous learning and creativity to build real-world applications.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hariomkhonde108&label=Profile%20views&color=0e75b6&style=flat" alt="hariomkhonde108" /> </p>
-<img align="right" src="https://drive.google.com/uc?export=view&id=1MFZGtdFy43JQ5M7gBu3Pw7aZIftEt7AJ" alt="My Image" height="250" width="200"/>
+<img align="right" src="https://drive.google.com/uc?export=view&id=1tD0cbRxuFdTyNgZ2d6ARVnkyPu-Pw5ss" alt="My Image"height="270" width="200"/>
 
 
 
