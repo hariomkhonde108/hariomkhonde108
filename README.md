@@ -23,6 +23,6 @@
 
 | Languages | Frameworks | Tools |  Databases | 
 |:---------:|:------------------:|:---:|:---------:|
-| <img src="https://skillicons.dev/icons?i=c,cpp,python,java,javascript,matlab,html,css&perline=4" alt="languages" height="90"/> | <img src="https://skillicons.dev/icons?i=flask,react,tailwind,vite,express,fastapi,django,nextjs,bootstrap&perline=5" alt="frameworks" height="90"/> | <img src="https://skillicons.dev/icons?i=postman,docker,wasm,git,bash,kali,figma,linux&perline=4" alt="tools" height="90"/>| <img src="https://skillicons.dev/icons?i=mongo,mysql&perline=2" alt="databases" height="90"/> |
+| <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,matlab,html,css&perline=4" alt="languages" height="90"/> | <img src="https://skillicons.dev/icons?i=react,tailwind,vite,express,nextjs,bootstrap&perline=5" alt="frameworks" height="90"/> | <img src="https://skillicons.dev/icons?i=postman,docker,git,bash,kali,figma,linux&perline=4" alt="tools" height="90"/>| <img src="https://skillicons.dev/icons?i=mongo,mysql&perline=2" alt="databases" height="90"/> |
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hariomkhonde108&show_icons=true&locale=en" alt="hariomkhonde108" /></p>
