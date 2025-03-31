@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **hariomkhonde@gmail.com**
 
-- ⚡ Fun fact **I love experimenting with new ideas and turning them into practical solutions!**
+- ⚡ Fun fact **Finding One Suggest me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
